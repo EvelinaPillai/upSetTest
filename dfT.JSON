@@ -1,0 +1,14 @@
+{
+	"file": "https://github.com/EvelinaPillai/upSetTest/blob/master/dfT.csv",
+	"name": "Test",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "ProteinID" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 6746 }
+	]
+
+}
